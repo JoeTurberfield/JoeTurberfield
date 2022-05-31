@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JoeTurberfield
 - 👀 I’m interested in ... C#, SQL, Javascript, ASP.NET
-- 🌱 I’m currently learning ... .NET Core, Razor, Blazor, MVC
-- 💞️ I’m looking to collaborate on ... Currently doing personal projects but open to speak to about projects :)
+- 🌱 I’m currently learning ... .NET Core, Java, AngularJS
+- 💞️ I’m looking to collaborate on ... any of code above
 - 📫 How to reach me ... joeturberfield@hotmail.co.uk
 
 <!---
