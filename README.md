@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoeTurberfield
-- 👀 I’m interested in ... C#, SQL, Javascript, ASP.NET
-- 🌱 I’m currently learning ... .NET Core, Java, AngularJS
+- 👀 I’m interested in ... C#, SQL, Javascript, ASP.NET, .NET Core, Java
+- 🌱 I’m currently learning ... AngularJS
 - 💞️ I’m looking to collaborate on ... any of code above
 - 📫 How to reach me ... joeturberfield@hotmail.co.uk
 
